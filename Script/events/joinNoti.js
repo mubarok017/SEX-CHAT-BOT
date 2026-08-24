@@ -2,7 +2,7 @@ module.exports.config = {
   name: "joinnoti",
   eventType: ["log:subscribe"],
   version: "1.0.0",
-  credits: "SUHAN SAHU",
+  credits: "𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃",
   description: "Welcome message with optional image/video",
   dependencies: {
     "fs-extra": "",
@@ -61,7 +61,7 @@ ${botPrefix}Admin
 ➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/8801933699293
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ SUHAN 𝐒𝐀𝐇𝐔`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃`;
 
       if (selected) {
         api.sendMessage({ body: messageBody, attachment: selected }, threadID);
@@ -108,7 +108,7 @@ ${botPrefix}Admin
 
 💌 🌺 𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄 🌺 💌
 ╭─╼╾─╼🌸╾─╼╾───╮
-   ─꯭─⃝‌‌𝐒UHAN 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌺
+   ─꯭─⃝‌‌𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃 🌺
 ╰───╼╾─╼🌸╾─╼╾─╯
 
 ❖⋆══════════════════════════⋆❖` : threadData.customJoin;

@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leave",
   eventType: ["log:unsubscribe"],
   version: "1.0.0",
-  credits: "SUHAN SAHU",
+  credits: "𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃",
   description: "Thông báo bot hoặc người rời khỏi nhóm",
   dependencies: {
     "fs-extra": "",

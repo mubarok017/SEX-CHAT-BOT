@@ -2,7 +2,7 @@ module.exports.config = {
   name: "joinnoti",
   eventType: ["log:subscribe"],
   version: "1.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "SUHAN SAHU",
   description: "Welcome message with optional image/video",
   dependencies: {
     "fs-extra": "",
@@ -56,12 +56,12 @@ ${botPrefix}Help
 ${botPrefix}Info
 ${botPrefix}Admin
 
-★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 কে নক করতে পারেন ★
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/100044713412032
-➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/8801882333052
+★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐒UHAN কে নক করতে পারেন ★
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/61589732935126
+➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: https://wa.me/8801933699293
 
 ❖⋆═══════════════════════⋆❖
-          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔`;
+          𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ➢ SUHAN 𝐒𝐀𝐇𝐔`;
 
       if (selected) {
         api.sendMessage({ body: messageBody, attachment: selected }, threadID);
@@ -108,7 +108,7 @@ ${botPrefix}Admin
 
 💌 🌺 𝐖 𝐄 𝐋 𝐂 𝐎 𝐌 𝐄 🌺 💌
 ╭─╼╾─╼🌸╾─╼╾───╮
-   ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌺
+   ─꯭─⃝‌‌𝐒UHAN 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌺
 ╰───╼╾─╼🌸╾─╼╾─╯
 
 ❖⋆══════════════════════════⋆❖` : threadData.customJoin;

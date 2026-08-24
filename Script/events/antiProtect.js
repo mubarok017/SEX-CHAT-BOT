@@ -4,7 +4,7 @@ const axios = require("axios");
 module.exports.config = {
   name: "antiProtect",
   version: "1.0.0",
-  credits: "SHAHADAT SAHU",
+  credits: "𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃",
   description: "Protect group name and photo",
   eventType: ["log:thread-name", "log:thread-icon"],
   cooldowns: 3

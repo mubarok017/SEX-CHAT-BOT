@@ -17,7 +17,7 @@
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    SUHAN CHAT BOT
   </span>
   <br>
 
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
+**Name:** `SUHAN AHMED`  
 **Nice Name:** `SA HU`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
 **Location:** `KHAGRACHARI, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801933699293)
+- **Facebook:** [Profile Me](https://www.facebook.com/SUHAN.VAI33)
+- **Messenger:** [Message Me](https://m.me/61589732935126)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -183,10 +183,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801933699293text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/61589732935126">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>

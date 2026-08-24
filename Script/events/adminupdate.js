@@ -2,7 +2,7 @@ module.exports.config = {
 name: "adminUpdate",
 eventType: ["log:thread-admins","log:thread-name", "log:user-nickname","log:thread-icon","log:thread-call","log:thread-color"],
 version: "1.0.0",
-credits: "SHAHADAT SAHU",
+credits: "𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃",
 description: "Update team information quickly",
 envConfig: {
 sendNoti: true,

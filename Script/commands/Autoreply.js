@@ -29,7 +29,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "bc": "SAME TO YOU😊",
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
-    "good night": "Sweet Dream babu… তবে আগে সাহু বস কে GN বলে নিও 😏💤",
+    "good night": "Sweet Dream babu… তবে আগে সুহান বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳 ☜\nFacebook: https://www.facebook.com/https://www.facebook.com/SUHAN.VAI33\nWhatsApp: +8801933699293",

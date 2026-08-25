@@ -32,7 +32,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "good night": "Sweet Dream babu… তবে আগে সাহু বস কে GN বলে নিও 😏💤",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
-    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳 ☜\nFacebook: https://www.facebook.com/https://www.facebook.com/SUHAN.VAI33\nWhatsApp: +8801933699293",
+    "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳 ☜\nFacebook: https://www.facebook.com/https:/SUHAN.VAI33\nWhatsApp: +8801933699293",
     "admin": "He is SAHU তাকে সবাই Admin SAHU হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
     "chup": "তুই চুপ চুপ কর পাগল ছাগল",

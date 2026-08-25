@@ -2,7 +2,7 @@ module.exports.config = {
  name: "birthday",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "SHAHADAT SAHU",
+ credits: "𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳",
  description: "মেনশন করলে শুভেচ্ছা জানাবে",
  commandCategory: "group",
  usages: "[@মেনশন]",

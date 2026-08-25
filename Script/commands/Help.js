@@ -32,7 +32,7 @@ module.exports.languages = {
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: %8
 ┃ 🤖 Bot Name: %9
-┃ 👑 Owner: 𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃
+┃ 👑 Owner: 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳
 ╰━━━━━━━━━━━━━━━━╯`,
         "helpList": "[ There are %1 commands. Use: \"%2help commandName\" to view more. ]",
         "user": "User",
@@ -80,7 +80,7 @@ module.exports.handleEvent = function ({ api, event, getText }) {
         command.config.commandCategory || "Unknown",  
         command.config.cooldowns || 0,  
         prefix,  
-        global.config.BOTNAME || "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭"  
+        global.config.BOTNAME || "𝚂𝚄𝙷𝙰𝙽 𝙲𝙷𝙰𝚃 𝙱𝙾𝚃"  
     );  
 
     downloadImages(files => {  
@@ -144,7 +144,7 @@ ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
 ┃ 🤖 Bot Name: ${global.config.BOTNAME || "𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃"}
-┃ 👑 Owner: 𝚂𝚄ℍ𝙰𝙽 𝙲ℍ𝙰𝚃 𝙱𝙾𝚃
+┃ 👑 Owner: 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳
 ╰━━━━━━━━━━━━━━━━╯`;
 
     downloadImages(files => {  

@@ -25,7 +25,7 @@ module.exports.run = async function({ api, event }) {
 │👤 𝐍𝐚𝐦𝐞 : 𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳
 │🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
 │❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 18+
+│🎂 𝐀𝐠𝐞 : 17+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
 │🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
 │🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Sylhet

@@ -35,7 +35,7 @@ module.exports.run = async function({ event, api, args }) {
  body: `╔══════════❖🌺❖══════════╗
 ║ 👤 𝐍𝐚𝐦𝐞 : ${𝚂𝚄𝙷𝙰𝙽 𝙰𝙷𝙼𝙴𝙳}
 ║ 🆔 𝐔𝐬𝐞𝐫 𝐔𝐈𝐃 : ${61589732935126}
-║ 🔗 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐋𝐢𝐧𝐤 :
+║ 🔗 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐋𝐢𝐧𝐤 :61589732935126
 ║ m.me/${uid}
 ║ 🌐 𝐅𝐁 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
 ║ fb.com/${https://www.facebook.com/SUHAN.VAI33}

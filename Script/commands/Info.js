@@ -67,10 +67,10 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 
  const imgLinks = [
-    "https://i.imgur.com/gokzyKd.jpeg",
-    "https://i.imgur.com/g3hlQ0Z.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
-    "https://i.imgur.com/5dG8PS5.jpeg"
+    "https://i.imgur.com/Syt1gjY.jpeg",
+    "https://i.imgur.com/e0pzxSu.jpeg",
+    "https://i.imgur.com/UGRDVOg.jpeg",
+    "https://i.imgur.com/gZMkmKl.jpeg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
